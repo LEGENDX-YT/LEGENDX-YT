@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝑨+𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆+𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓+𝒇𝒓𝒐𝒎+India%E2%9C%8C%EF%B8%8F;PHP%2C+Linux%2C+Hack%2C+Telethon%2C+Pyrogram%2C+Python%2C+Java%2C+Linux%E2%9D%A4%EF%B8%8F">
 </p> 
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=SATYA+OP+Hacker+DarkWeb+%E2%9C%8C%EF%B8%8F;%2C+%2C+%2C+%2C+%2C+Diksha%2C+%2C+%E2%9D%A4%EF%B8%8F">
+<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=SATYA+OP+Hacker+DarkWeb+%E2%9C%8C%EF%B8%8F;%2C+%2C+%2C+%2C+%2C+%2C+%2C+%E2%9D%A4%EF%B8%8F">
 </p> 
 <br>
 
