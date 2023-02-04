@@ -40,13 +40,13 @@ Here are some ideas to get you started:
 ______Hi there 
 
 ----
-![GitHub followers](https://img.shields.io/github/followers/SATYA-OP?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=SATYA-OP.SATYA-OP)
-[![Profile views](https://komarev.com/ghpvc/?username=SATYA-OP&label=Profile%20views)](https://github.com/SATYA-OP)
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=SATYA-OP)
+![GitHub followers](https://img.shields.io/github/followers/PRAWASH-MALVIYA-LEGEND?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=PRAWASH-MALVIYA-LEGEND.PRAWASH-MALVIYA-LEGEND)
+[![Profile views](https://komarev.com/ghpvc/?username=PRAWASH-MALVIYA-LEGEND&label=Profile%20views)](https://github.com/PRAWASH-MALVIYA-LEGEND)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=PRAWASH-MALVIYA-LEGEND)
   
-<a href="https://github-readme-stats.vercel.app/api?username=SATYA-OP&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
-    <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=SATYA-OP&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
+<a href="https://github-readme-stats.vercel.app/api?username=PRAWASH-MALVIYA-LEGEND&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
+    <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=PRAWASH-MALVIYA-LEGEND&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
 
 </a>
 </b></h2>  
@@ -54,7 +54,7 @@ ______Hi there
 
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYA-OP&layout=compact&theme=midnight-purple&hide=Css">
-    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYA-OP&layout=compact&theme=midnight-purple&hide=Css" />
+    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAWASH-MALVIYA-LEGEND&layout=compact&theme=midnight-purple&hide=Css" />
 </a>
 </b></h2>  
 </details>
