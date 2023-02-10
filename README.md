@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 <h2 align="center"><b> ⠐💥💫Personal ★ PRAWASH MALVIYA 】LEGENDX Information💫💥 ⠐ </b></h2>
 
-
-
 <p align='Middle'><a href='https://t.me/ll_ll_LegendHacker_IN_ll_ll'><img src='https://te.legra.ph/file/d98047694bfb68368c5fb.jpg' width='750"'></a></p>
 <p align="center">
  
@@ -39,10 +37,6 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=PRAWASH+MALVIYA+Hacker+DarkWeb+%E2%9C%8C%EF%B8%8F;%2C+%2C+%2C+%2C+%2C+%2C+%2C+%E2%9D%A4%EF%B8%8F">
 </p> 
 <br>
- <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=⠐💥💫Personal+★ PRAWASH MALVIYA 】+LEGENDX+Information💫💥 ⠐+%E2%9C%8C%EF%B8%8F;PHP%2C+Linux%2C+Hack%2C+Telethon%2C+Pyrogram%2C+Python%2C+Java%2C+Linux%E2%9D%A4%EF%B8%8F">
-</p> 
-<br>
-
 
 ______Hi there 
 
