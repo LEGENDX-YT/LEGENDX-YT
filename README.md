@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 <h2 align="center"><b> ⠐💥💫Personal ★ PRAWASH MALVIYA 】LEGENDX Information💫💥 ⠐ </b></h2>
 
-<p align='Middle'><a href='https://t.me/Its_LegendBoy'><img src='https://te.legra.ph/file/d98047694bfb68368c5fb.jpg' width='750"'></a></p>
+<p align='Middle'><a href='https://t.me/ll_ll_LegendHacker_IN_ll_ll'><img src='https://te.legra.ph/file/d98047694bfb68368c5fb.jpg' width='750"'></a></p>
 <p align="center">
  
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝑨+𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆+𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓+𝒇𝒓𝒐𝒎+India%E2%9C%8C%EF%B8%8F;PHP%2C+Linux%2C+Hack%2C+Telethon%2C+Pyrogram%2C+Python%2C+Java%2C+Linux%E2%9D%A4%EF%B8%8F">
@@ -69,7 +69,7 @@ ______Hi there
 
 
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pro.legendhacker) [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/Its_LegendBoy) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Its_LegendBoy) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/legendhacker_iin)  [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@SATYA-OP)</b></h2> 
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ll_OFFICIAL_LEGENDBOY_ll) [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/ll_ll_LegendHacker_IN_ll_ll) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ll_ll_LegendHacker_IN_ll_ll) [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ll_ll_LegendHacker_IN_ll_ll)  [![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)](https://repl.it/@LEGEND-LX)</b></h2> 
 </details>
 
 
