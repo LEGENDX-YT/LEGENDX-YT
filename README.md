@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=⠐💥💫Personal+★ PRAWASH MALVIYA 】+LEGENDX+Information💫💥 ⠐+%E2%9C%8C%EF%B8%8F;%2C+%2C+%2C+%2C+%2C+%2C+%2C+%E2%9D%A4%EF%B8%8F">
 </p> 
 <br>
