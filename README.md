@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <h2 align="center"><b> ⠐💥💫Personal ★ PRAWASH MALVIYA 】LEGENDX Information💫💥 ⠐ </b></h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=⠐💥💫Personal+★ PRAWASH MALVIYA 】+LEGENDX+Information💫💥 ⠐+%E2%9C%8C%EF%B8%8F;%2C+%2C+%2C+%2C+%2C+%2C+%2C+%E2%9D%A4%EF%B8%8F">
+<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=💥💫Personal+★ PRAWASH MALVIYA 】+LEGENDX+Information💫+%E2%9C%8C%EF%B8%8F;%2C+%2C+%2C+%2C+%2C+%2C+%2C+%E2%9D%A4%EF%B8%8F">
 </p> 
 <br>
 
